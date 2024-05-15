@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there! I'm Prasun Gupta, a passionate Computer Science Engineering undergrad student with a keen interest in web development. I'm currently honing my skills in HTML, CSS, JavaScript, and React to build beautiful and efficient web applications.
 
-<!--
-**Prasun-12/Prasun-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **What I'm Working On:**
+- Building responsive websites with HTML and CSS.
+- Adding interactivity with JavaScript.
+- Developing dynamic user interfaces with React.
 
-Here are some ideas to get you started:
+💡 **What I Love:**
+- Clean and maintainable code.
+- Learning and experimenting with new web technologies.
+- Collaborating on exciting projects and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Goals:**
+- Master front-end development.
+- Contribute to open-source projects.
+- Build a portfolio of projects showcasing my skills.
+
+📫 **How to Reach Me:**
+- prasungupta604@gmail.com
+- www.linkedin.com/in/prasun-gupta-581076251
+
+Let's create something amazing together! 💻✨
